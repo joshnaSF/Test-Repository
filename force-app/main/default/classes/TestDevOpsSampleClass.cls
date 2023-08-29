@@ -3,4 +3,6 @@ public with sharing class TestDevOpsSampleClass {
         public String fieldName;
         public String fieldValue;
     }
+
+    // changes for work item
 }
